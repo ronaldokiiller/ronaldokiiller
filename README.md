@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there Bem vindo 🇧🇷 🖖
 
-<!--
-**ronaldokiiller/ronaldokiiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Ronaldo Adriano Kiiller
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on SEED-PR
+
+- 🌱 I’m currently learning Python at Alura through the SEED-PR's Edutech program
+
+- 📫 How to reach me: ronaldo.kiiller@escola.pr.gov.br 
+
+- @adrianokiiller
+
+
