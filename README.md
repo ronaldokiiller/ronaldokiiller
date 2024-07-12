@@ -1,4 +1,4 @@
-### **Hi there Bem** vindo 🇧🇷 🖖
+### Hi there Bem vindo 🇧🇷 🖖
 
 
 Meu nome é Ronaldo Adriano Kiiller
